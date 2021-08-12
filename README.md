@@ -1,4 +1,4 @@
-# Hi, I'm Gerard 👋 👨🏻‍💻
+# Hi, I'm Gerard 👋🏼 👨🏻‍💻
 
 ### I am a Software Engineer with a passion for working on social impact projects. A native from Barcelona and a New Yorker, I spend my free time walking around the city, coding at a cafe, hiking and listening to jazz.
 
